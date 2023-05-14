@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\shami\\source\\repos\\WebApplicationGitNew\\WebApplicationGitNew\\WebApplicationGitNew.csproj": {}
+    "C:\\tutorials\\testgit\\wetheGitNre\\WebApplicationGitNew\\WebApplicationGitNew.csproj": {}
   },
   "projects": {
-    "C:\\Users\\shami\\source\\repos\\WebApplicationGitNew\\WebApplicationGitNew\\WebApplicationGitNew.csproj": {
+    "C:\\tutorials\\testgit\\wetheGitNre\\WebApplicationGitNew\\WebApplicationGitNew.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\shami\\source\\repos\\WebApplicationGitNew\\WebApplicationGitNew\\WebApplicationGitNew.csproj",
+        "projectUniqueName": "C:\\tutorials\\testgit\\wetheGitNre\\WebApplicationGitNew\\WebApplicationGitNew.csproj",
         "projectName": "WebApplicationGitNew",
-        "projectPath": "C:\\Users\\shami\\source\\repos\\WebApplicationGitNew\\WebApplicationGitNew\\WebApplicationGitNew.csproj",
+        "projectPath": "C:\\tutorials\\testgit\\wetheGitNre\\WebApplicationGitNew\\WebApplicationGitNew.csproj",
         "packagesPath": "C:\\Users\\shami\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\shami\\source\\repos\\WebApplicationGitNew\\WebApplicationGitNew\\obj\\",
+        "outputPath": "C:\\tutorials\\testgit\\wetheGitNre\\WebApplicationGitNew\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\shami\\AppData\\Roaming\\NuGet\\NuGet.Config",
